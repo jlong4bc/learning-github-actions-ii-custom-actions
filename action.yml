@@ -1,0 +1,8 @@
+name: 'Hello World Printer 9000'
+description: 'Prints Hello World'
+runs:
+   using: 'docker'
+   image: 'Dockerfile'
+branding:
+   icon: 'gift'
+   color: 'blue'
